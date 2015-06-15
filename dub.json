@@ -1,0 +1,9 @@
+{
+	"name": "tested-atom",
+	"description": "A test result writer helper for atom tested plugin.",
+	"copyright": "Copyright © 2015, Szabo Bogdan",
+	"authors": ["Szabo Bogdan"],
+	"dependencies": {
+		"tested": "~>0.9.4"
+	}
+}
